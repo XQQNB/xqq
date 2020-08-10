@@ -4,7 +4,7 @@ ygstaffsStuID修改为角色编号
 
 technicalinformation 主键修改为自增
 
-fieldvehicles 主键修改为自增
+fieldvehicles 主键修改为自增吧
 
 
 第三次整合
